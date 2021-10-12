@@ -1,4 +1,4 @@
-# AdmBeeDev
+# BeeDev Summary
 
 Página de sumário dos conteúdos do Notion da BeeDev.
 
