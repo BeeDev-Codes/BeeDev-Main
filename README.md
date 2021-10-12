@@ -2,7 +2,7 @@
 
 Página de sumário dos conteúdos do Notion da BeeDev.
 
-[**Página Principal**](https://www.notion.so/beedeveloper/BeeDev-b3284d4907f8420eb3bd6021e7baeaf9)
+🐝 [**Página Principal**](https://www.notion.so/beedeveloper/BeeDev-b3284d4907f8420eb3bd6021e7baeaf9) 🐝
 
 [**Feedbacks**](https://freickup.typeform.com/to/bU0lg19h)
 
